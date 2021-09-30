@@ -21,6 +21,7 @@ public class childfour extends parentfour
    public static void main(String[] args) 
    {
 	   
+	   
 	   System.out.println("Abtract class with using inhertance");
 	   System.out.println("*************************************");
 	   childfour obj=new childfour();
